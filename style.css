@@ -1,0 +1,7 @@
+
+body{font-family:Arial,sans-serif;background:#0b1220;color:white;margin:0}
+header{background:#111;padding:15px;position:sticky;top:0}
+a{color:#00d4ff;text-decoration:none;margin:10px}
+.hero{padding:80px 20px;text-align:center;background:#13203a}
+.card{background:#1b2945;padding:20px;border-radius:12px;margin:10px}
+.container{max-width:1200px;margin:auto;padding:20px}
